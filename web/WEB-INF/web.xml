@@ -8,7 +8,11 @@
     </welcome-file-list>
     <error-page>
         <error-code>404</error-code>
-        <location>/WEB-INF/views/error/404.jsp</location>
+        <location>/WEB-INF/404.jsp</location>
+    </error-page>
+    <error-page>
+        <error-code>500</error-code>
+        <location>/WEB-INF/500.jsp</location>
     </error-page>
     <servlet>
         <servlet-name>MessageListServlet</servlet-name>
@@ -119,4 +123,5 @@
         <servlet-name>MessageServlet</servlet-name>
         <url-pattern>/my/message/delete.do</url-pattern>
     </servlet-mapping>
+
 </web-app>
