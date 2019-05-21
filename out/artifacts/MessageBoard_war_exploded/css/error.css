@@ -1,0 +1,11 @@
+#main{
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+    height: 500px;
+    margin: 200px auto;
+}
+#main .font{
+    font-size: 35px;
+    color: lightblue;
+}
