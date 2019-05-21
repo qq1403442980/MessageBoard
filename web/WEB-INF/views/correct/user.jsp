@@ -18,8 +18,8 @@
         </nav>
         <div class="container">
             <div class="jumbotron">
-                <h1>Hello, ${user.username}!</h1>
-                <p>信息都在这里了 ^_^</p>
+                <h1>您好 ${user.username}!</h1>
+
             </div>
             <div class="page-header">
                 <h3><small>个人信息</small></h3>
@@ -64,7 +64,7 @@
             </form>
         </div>
         <footer class="text-center" >
-            copy@imooc
+
         </footer>
     </body>
 </html>

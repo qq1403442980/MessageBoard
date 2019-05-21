@@ -36,7 +36,7 @@
     <div class="container">
         <div class="navbar-header">
             <a class="navbar-brand" href="#">
-                慕课网个人信息填写
+           个人信息填写
             </a>
         </div>
     </div>
@@ -90,7 +90,7 @@
     </form>
 </div>
 <footer class="text-center" >
-    copy@imooc
+
 </footer>
 </body>
 </html>

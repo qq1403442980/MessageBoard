@@ -11,7 +11,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <a class="navbar-brand" href="/message/list.do">
-                        慕课网留言板
+                      留言板
                     </a>
                 </div>
             </div>
@@ -50,7 +50,6 @@
             </form>
         </div>
         <footer class="text-center" >
-            copy@imooc
         </footer>
     </body>
 </html>

@@ -76,7 +76,6 @@
     </div>
 </section>
 <footer>
-    copy@慕课网
 </footer>
 </body>
 </html>

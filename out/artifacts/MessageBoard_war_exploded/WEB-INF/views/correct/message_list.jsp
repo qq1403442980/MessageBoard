@@ -51,8 +51,8 @@
         <section class="banner">
             <div class="container">
                 <div>
-                    <h1>慕课网留言板</h1>
-                    <p>慕课网是垂直的互联网IT技能免费学习网站。以独家视频教程、在线编程工具、学习计划、问答社区为核心特色。在这里，你可以找到最好的互联网技术牛人，也可以通过免费的在线公开视频课程学习国内领先的互联网IT技术。 </p>
+                    <h1>留言板</h1>
+                    <p>留下你的脚印👣 </p>
                 </div>
             </div>
         </section>
@@ -103,7 +103,7 @@
             </div>
         </section>
         <footer>
-            copy@慕课网
+         
         </footer>
     </body>
 </html>
