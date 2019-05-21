@@ -32,6 +32,15 @@
 
 <body>
 <header>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/message/list.do">
+                    返回留言板
+                </a>
+            </div>
+        </div>
+    </nav>
 </header>
 <section class="banner">
     <div class="container">
