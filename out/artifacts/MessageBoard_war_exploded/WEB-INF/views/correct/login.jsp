@@ -69,7 +69,6 @@
 						<input type="checkbox" checked="checked">
 						下次自动登录
 					</label>
-					<a href="">忘记密码</a>
 				</div>
 				<div class="btn-red">
 					<input type="submit" value="登录" id="login-btn">

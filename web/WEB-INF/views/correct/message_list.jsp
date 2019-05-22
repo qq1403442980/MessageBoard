@@ -40,6 +40,9 @@
                     <nav>
                         <a href="/userInfo.do">我的信息</a>
                     </nav>
+                <nav>
+                    <a href="/logout.do">注销</a>
+                </nav>
                 <%} else { %>
                     <nav>
                         <a href="/login.do">登录</a>

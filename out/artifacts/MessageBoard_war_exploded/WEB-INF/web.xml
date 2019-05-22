@@ -38,6 +38,17 @@
         <servlet-name>LoginToServlet</servlet-name>
         <url-pattern>/main.do</url-pattern>
     </servlet-mapping>
+
+    <!--退出登陆-->
+    <servlet>
+        <servlet-name>LogoutServlet</servlet-name>
+        <servlet-class>com.sponge.messageboard.servlet.LogoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LogoutServlet</servlet-name>
+        <url-pattern>/logout.do</url-pattern>
+    </servlet-mapping>
+
     <!--关于captcha的配置-->
     <servlet>
         <servlet-name>Kaptcha</servlet-name>
