@@ -69,6 +69,7 @@ public class UserServlet extends HttpServlet {
                 user.setBrithday(date);
                 request.getSession().setAttribute("user",user);
                 request.setAttribute("user",user);
+                System.out.println("g");
                 request.getRequestDispatcher("/WEB-INF/views/correct/user.jsp").forward(request,response);
             }else {
                 //更新失败

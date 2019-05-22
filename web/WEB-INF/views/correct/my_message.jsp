@@ -36,7 +36,7 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand" href="/message/list.do">
-                    返回留言板
+                   返回主页
                 </a>
             </div>
         </div>
